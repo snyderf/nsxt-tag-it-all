@@ -1,0 +1,4 @@
+hostname: "nsx-man.virtuallyknowhere.lab"
+username: "admin"
+password: "VMware1!"
+importfile: "complextags.yaml"

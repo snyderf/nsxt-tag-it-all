@@ -1,0 +1,22 @@
+nsxObject:
+  - objtype: "Virtual Machine"
+    displayName: "ubuntu-base"
+    tags:
+      - scope: "type"
+        tag: "template"
+      - scope: "status"
+        tag: "not-ready"
+  - objtype: "Logical Switch"
+    displayName: "Web-Tier"
+    tags:
+      - scope: "tier"
+        tag: "web"
+      - scope: "app"
+        tag: "3tier"
+  - objtype: "Logical Switch"
+    displayName: "App-Tier"
+    tags:
+      - scope: "tier"
+        tag: "app"
+      - scope: "app"
+        tag: "3tier"

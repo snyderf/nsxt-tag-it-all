@@ -1,0 +1,26 @@
+nsxObject:
+  - objtype: "Virtual Machine"
+    displayName: "Web01"
+    tags:
+      - scope: "created-by"
+        tag: "yaml"
+  - objtype: "Virtual Machine"
+    displayName: "Web02"
+    tags:
+      - scope: "created-by"
+        tag: "yaml"
+  - objtype: "Virtual Machine"
+    displayName: "App01"
+    tags:
+      - scope: "created-by"
+        tag: "yaml"
+  - objtype: "Virtual Machine"
+    displayName: "App02"
+    tags:
+      - scope: "created-by"
+        tag: "yaml"
+  - objtype: "Virtual Machine"
+    displayName: "DB01"
+    tags:
+      - scope: "created-by"
+        tag: "yaml"
